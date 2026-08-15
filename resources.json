@@ -1,9 +1,10 @@
 {
-  "version": 1786759472345,
-  "updatedAt": "2026-08-15T02:04:32.346Z",
+  "version": 1786806931487,
+  "updatedAt": "2026-08-15T15:15:31.487Z",
   "articles": [
     {
       "id": "getting-paid-to-caregive",
+      "pinned": true,
       "title": "Getting Paid to Provide Care: Programs for Family Caregivers",
       "category": "Financial",
       "summary": "Several programs pay family caregivers - Medicaid self-directed care, Structured Family Caregiving, and some long-term care insurance. Most ask for a log of the care you provide.",
@@ -15,6 +16,50 @@
         "benefits"
       ],
       "content": "\n# Getting Paid to Provide Care\n\nYou may be able to be paid for care you already provide. Programs vary by state, so the fastest way to find and apply for what you qualify for:\n\n## Start here (free help applying)\nCall the Eldercare Locator at 1-800-677-1116 or visit https://eldercare.acl.gov - it connects you to your local Area Agency on Aging, which will tell you your state's programs and help you apply.\n\n## The main pathways:\n\n## Medicaid Self-Directed / Consumer-Directed Care\nAvailable in nearly every state - the person receiving care can hire and direct their own caregiver, often a family member (typically ~$13-25/hour). Reviewers look for a care plan and a log of hours and tasks for approval and annual renewals - your Care Log in this app is built for that.\nFind your state program: https://www.medicaid.gov/medicaid/long-term-services-supports/self-directed-services\n\n## Structured Family Caregiving (SFC)\nAbout 11 states pay a tax-free daily stipend to a live-in family caregiver.\nOverview: https://www.medicaidplanningassistance.org/structured-family-caregiving/\n\n## Long-Term Care Insurance\nSome policies pay informal (family) caregivers - check for an assessment/care-plan requirement and an elimination period.\n\n## Important\nThese programs vary by state and change over time. Use the links above for current details where you live, and keep your Care Log up to date as supporting evidence.\n"
+    },
+    {
+      "id": "nia-caregiving-health",
+      "category": "Medical",
+      "title": "Caregiving & Health Guidance (National Institute on Aging)",
+      "summary": "Evidence-based, non-commercial guidance on caregiving, dementia, and managing health conditions — kept current by the NIH National Institute on Aging.",
+      "readTime": "Link",
+      "sourceUrl": "https://www.nia.nih.gov/health/caregiving",
+      "tags": [
+        "health",
+        "dementia",
+        "nia",
+        "government"
+      ],
+      "content": "The National Institute on Aging (part of the NIH) publishes plain-language, evidence-based guidance for caregivers — covering dementia care, medication, mobility, nutrition, and looking after your own health.\n\nBecause guidance changes as research does, this links straight to their live page rather than copying it here.\n\nOpen the current page: https://www.nia.nih.gov/health/caregiving"
+    },
+    {
+      "id": "acl-caregiver-support",
+      "category": "Planning",
+      "title": "Find Local Caregiver Support (ACL & Eldercare Locator)",
+      "summary": "The Administration for Community Living connects caregivers to local services. The Eldercare Locator (1-800-677-1116) is the public front door to help near you.",
+      "readTime": "Link",
+      "sourceUrl": "https://acl.gov/programs/support-caregivers",
+      "tags": [
+        "resources",
+        "support",
+        "eldercare",
+        "government"
+      ],
+      "content": "The Administration for Community Living (ACL) funds caregiver support across every state — respite, training, counseling, and help navigating benefits.\n\nThe fastest way in is the Eldercare Locator: call 1-800-677-1116 or use https://eldercare.acl.gov to find services in your area.\n\nOpen ACL's caregiver support page: https://acl.gov/programs/support-caregivers"
+    },
+    {
+      "id": "fca-services-by-state",
+      "category": "Planning",
+      "title": "Caregiver Services by State (Family Caregiver Alliance)",
+      "summary": "A state-by-state directory of caregiver programs, respite, and support — maintained by the Family Caregiver Alliance.",
+      "readTime": "Link",
+      "sourceUrl": "https://www.caregiver.org/connecting-caregivers/services-by-state/",
+      "tags": [
+        "resources",
+        "state-programs",
+        "respite"
+      ],
+      "content": "The Family Caregiver Alliance keeps a state-by-state directory of caregiver programs — public benefits, respite, disease-specific help, and legal/financial resources.\n\nPick your state to see what's available where you live.\n\nOpen the directory: https://www.caregiver.org/connecting-caregivers/services-by-state/"
     },
     {
       "id": "prevent-burnout",
@@ -87,6 +132,84 @@
         "legal"
       ],
       "content": "\n# End-of-Life Planning\n\nWhile difficult, these conversations and documents can ensure your loved one's wishes are honored and reduce family conflict during already stressful times.\n\n## Essential Legal Documents\n\n### 1. Advance Directive (Living Will)\n**What It Is:** Document stating what medical treatments you want/don't want if unable to communicate\n\n**Should Include:**\n- CPR wishes\n- Ventilator/breathing machine preferences\n- Feeding tube decisions\n- Dialysis preferences\n- Organ donation wishes\n- Other specific treatments\n\n**How to Create:**\n- Use your state's form (free at caringinfo.org)\n- Discuss with doctor\n- Give copies to family, doctor, hospital\n- Update if wishes change\n\n### 2. Medical Power of Attorney (Healthcare Proxy)\n**What It Is:** Names someone to make medical decisions if you can't\n\n**Choosing Your Agent:**\n- Someone who knows your wishes\n- Can make hard decisions under pressure\n- Will advocate for you\n- Lives nearby (ideally)\n\n**What They Decide:**\n- Treatment options\n- Doctors and facilities\n- Access to medical records\n- End-of-life care\n\n### 3. Financial Power of Attorney\n**What It Is:** Names someone to handle financial matters if you can't\n\n**Powers May Include:**\n- Paying bills\n- Managing investments\n- Filing taxes\n- Handling benefits\n- Selling property\n\n**Types:**\n- **Durable:** Takes effect immediately, continues if incapacitated\n- **Springing:** Only takes effect if incapacitated\n\n### 4. Will\n**What It Is:** Legal document stating how to distribute assets after death\n\n**Should Include:**\n- Beneficiaries\n- Executor (person handling estate)\n- Guardian for minor children\n- Specific bequests\n- Funeral wishes\n\n### 5. POLST/MOLST Form\n**What It Is:** Portable medical orders for seriously ill patients\n\n**Key Features:**\n- Bright pink form (easy to find in emergency)\n- Signed by doctor\n- Details level of care wanted\n- Travels with patient\n- More detailed than advance directive\n\n**Who Needs It:**\n- Seriously ill patients\n- Frail elderly\n- Anyone who might not want full treatment\n\n## Having the Conversation\n\n### When to Talk\n- Before a crisis\n- When healthy (if possible)\n- After a friend's death\n- After news story triggers discussion\n- During estate planning\n\n### How to Start\n- \"I was reading about advance directives. Have you thought about what you'd want?\"\n- \"What matters most to you if you become seriously ill?\"\n- \"Let's make sure I know your wishes so I can honor them.\"\n\n### Questions to Ask\n1. \"What does a 'good death' look like to you?\"\n2. \"What's more important: length of life or quality?\"\n3. \"How do you feel about life support?\"\n4. \"Where would you want to be cared for?\"\n5. \"What would make life not worth living?\"\n6. \"What are your fears about dying?\"\n7. \"What would you want us to know?\"\n\n### If They Resist\n- Don't push too hard\n- Come back to it later\n- Start with easier topics (funeral wishes)\n- Share your own wishes first\n- Use hypotheticals: \"If you were in a coma with no chance of recovery...\"\n\n## Understanding Hospice\n\n### What Is Hospice?\nCare focused on comfort (not cure) for people with terminal illness (6 months or less to live)\n\n### What Hospice Provides\n- Skilled nursing care\n- Medical equipment\n- Medications for comfort\n- Emotional/spiritual support\n- Respite care for family\n- Bereavement support (after death)\n\n### Where Hospice Happens\n- At home (most common)\n- Nursing home\n- Hospital\n- Inpatient hospice facility\n\n### Cost\n- Medicare covers 100% of hospice\n- Most private insurance covers it\n- Medicaid covers it\n- No one is denied due to inability to pay\n\n### Common Myths\n\n**Myth:** \"Choosing hospice means giving up.\"\n**Truth:** It means shifting from cure to comfort—often improves quality of remaining life.\n\n**Myth:** \"You can't change your mind.\"\n**Truth:** You can leave hospice and return to treatment anytime.\n\n**Myth:** \"Hospice shortens life.\"\n**Truth:** Studies show hospice may actually extend life by preventing complications and providing excellent symptom management.\n\n**Myth:** \"Hospice is only for the last few days.\"\n**Truth:** Earlier referral (when still relatively well) allows more time to benefit from services.\n\n### When to Consider Hospice\n- Frequent hospitalizations\n- Declining despite treatment\n- More bad days than good\n- Spending most time in bed\n- Weight loss/weakness\n- Doctor mentions \"time is limited\"\n\n### How to Start\n1. Ask doctor for hospice evaluation\n2. Hospice agency does assessment (no obligation)\n3. If eligible, can start same day\n4. Revocable any time\n\n## Practical Planning\n\n### Funeral/Memorial Planning\n**Pre-Planning Benefits:**\n- Ensures wishes are followed\n- Removes burden from family\n- Can pre-pay (locks in costs)\n- Prevents family disagreement\n\n**Decisions to Make:**\n- Burial vs. cremation\n- Type of service\n- Location of service\n- Readings, music, speakers\n- Obituary wishes\n- Organ donation\n\n**Cost-Saving Tips:**\n- Compare prices (required by law)\n- Simple casket ($700 vs. $5000+)\n- Direct cremation ($1000-$3000)\n- Memorial service later (not funeral)\n- Skip embalming if not required\n- Use cremation container instead of casket\n- Donate body to science (free)\n\n### Important Information to Document\nCreate a \"When I Die\" file with:\n\n**Legal/Financial:**\n- Location of will, POA, advance directive\n- Bank accounts, credit cards\n- Insurance policies\n- Property deeds\n- Passwords (bank, email, social media)\n- Safe deposit box location/key\n\n**Benefits/Accounts:**\n- Social Security number\n- Medicare/Medicaid numbers\n- Veterans benefits\n- Pensions\n- Investment accounts\n\n**Contacts:**\n- Lawyer\n- Financial advisor\n- Insurance agent\n- Executor\n- Doctors\n\n**Final Wishes:**\n- Funeral preferences\n- Burial location\n- Organ donation\n- Who to notify\n- Charitable donations\n- Special requests\n\n### Digital Legacy\n- Grant access to email, social media\n- Specify what to do with accounts (memorialize, delete)\n- List online accounts and passwords\n- Share locations of photos, documents\n\n## Supporting Someone at End of Life\n\n### What to Say\n- \"I love you\"\n- \"Thank you for...\"\n- \"I forgive you\" / \"I'm sorry\"\n- \"You can let go\"\n- Read favorite prayers, poems, passages\n- Share memories\n- Give permission to die\n\n### What NOT to Say\n- \"Don't give up\"\n- \"You have to fight this\"\n- \"Everything will be fine\"\n- \"At least...\"\n\n### Physical Comfort\n- Keep lips moist\n- Turn gently every 2 hours\n- Play favorite music\n- Reduce noise\n- Soft lighting\n- Cool compresses for fever\n- Light blankets\n\n### Signs Death is Near (Days to Hours)\n- Sleeping more, hard to wake\n- Less interested in food/drink\n- Confusion about time/place/people\n- Cool hands and feet\n- Irregular breathing (pauses)\n- Restlessness\n- Talking to deceased loved ones\n\n### At the Moment of Death\n- No need to call 911 (if on hospice or expected)\n- Call hospice nurse (if on hospice)\n- Take time with body (no rush)\n- Call funeral home when ready\n- Notify family\n\n## After Death\n\n### First 24 Hours\n- Call funeral home\n- Notify immediate family\n- If veteran: call (800) 827-1000 for burial benefits\n- Secure home and valuables\n- Care for pets\n\n### First Week\n- Plan funeral/memorial\n- Order death certificates (need 10-15)\n- Contact Social Security (stops benefits)\n- Contact banks, credit cards\n- Notify employer, insurance\n\n### First Month\n- File will with probate court\n- Contact attorney if needed\n- Notify creditors\n- Cancel subscriptions, memberships\n- Forward mail\n- Return medical equipment\n\n## Resources\n\n- National Hospice and Palliative Care: (800) 658-8898\n- Aging with Dignity (Five Wishes advance directive): (888) 594-7437\n- Caring Info (state-specific forms): caringinfo.org\n- National Funeral Directors: nfda.org\n- Social Security Death Benefits: (800) 772-1213\n\n## Self-Care for Caregivers\n\nEnd-of-life caregiving is emotionally exhausting. Remember:\n- Anticipatory grief is normal\n- Take breaks (respite care)\n- Accept help\n- Join support group\n- See therapist if needed\n- Let go of guilt\n- Find meaning in this time together\n\n## Final Thoughts\n\nThese conversations are gifts—to your loved one (honoring their wishes) and to yourself (clarity and peace of mind). While difficult, they're acts of love.\n\nStart small. Ask one question. Fill out one form. Every step helps.\n    "
+    },
+    {
+      "id": "feed-va-caregiver-news-free-legal-financial-planning-assistance-for-va-caregivers",
+      "category": "VA News",
+      "title": "Free legal & financial planning assistance for VA caregivers",
+      "summary": "VA’s Program of Comprehensive Assistance for Family Caregivers (PCAFC) includes legal and financial planning services to support the unique needs of injured Veterans and their primary family caregivers.",
+      "readTime": "Link",
+      "sourceUrl": "https://news.va.gov/143881/legal-financial-planning-assistance-caregivers/",
+      "updatedAt": "2025-12-13T19:30:00.000Z",
+      "tags": [
+        "va-caregiver-news"
+      ],
+      "content": "VA’s Program of Comprehensive Assistance for Family Caregivers (PCAFC) includes legal and financial planning services to support the unique needs of injured Veterans and their primary family caregivers.\n\nSource: VA Caregiver News\nRead the full article: https://news.va.gov/143881/legal-financial-planning-assistance-caregivers/"
+    },
+    {
+      "id": "feed-va-caregiver-news-va-research-wrap-up-new-findings-on-caregivers-alzheimer-s-d",
+      "category": "VA News",
+      "title": "VA Research Wrap Up: New findings on caregivers, Alzheimer’s disease, and toxic exposure",
+      "summary": "This week, VA's Office of Research and Development published three News Briefs highlighting research advances for Veterans in caregiver training, Alzheimer's disease and toxic exposure.",
+      "readTime": "Link",
+      "sourceUrl": "https://news.va.gov/140532/va-research-wrap-up-caregivers-alzheimers-toxic/",
+      "updatedAt": "2025-06-06T13:30:00.000Z",
+      "tags": [
+        "va-caregiver-news"
+      ],
+      "content": "This week, VA's Office of Research and Development published three News Briefs highlighting research advances for Veterans in caregiver training, Alzheimer's disease and toxic exposure.\n\nSource: VA Caregiver News\nRead the full article: https://news.va.gov/140532/va-research-wrap-up-caregivers-alzheimers-toxic/"
+    },
+    {
+      "id": "feed-va-caregiver-news-grieving-ahead-of-time",
+      "category": "VA News",
+      "title": "Grieving ahead of time",
+      "summary": "Caring for a Veteran can be a rewarding but emotional journey. It’s important to be patient with yourself. Take time to grieve.",
+      "readTime": "Link",
+      "sourceUrl": "https://news.va.gov/140199/grieving-ahead-of-time/",
+      "updatedAt": "2025-05-23T14:30:00.000Z",
+      "tags": [
+        "va-caregiver-news"
+      ],
+      "content": "Caring for a Veteran can be a rewarding but emotional journey. It’s important to be patient with yourself. Take time to grieve.\n\nSource: VA Caregiver News\nRead the full article: https://news.va.gov/140199/grieving-ahead-of-time/"
+    },
+    {
+      "id": "feed-va-caregiver-news-blue-star-families-host-online-q-a-and-live-event-for-vetera",
+      "category": "VA News",
+      "title": "Blue Star Families host online Q&A and live event for Veterans, caregivers",
+      "summary": "Join Blue Star Families and ask the experts all of your questions regarding caregivers benefits.",
+      "readTime": "Link",
+      "sourceUrl": "https://news.va.gov/140110/blue-star-families-host-qa-veterans-caregivers/",
+      "updatedAt": "2025-05-13T18:30:00.000Z",
+      "tags": [
+        "va-caregiver-news"
+      ],
+      "content": "Join Blue Star Families and ask the experts all of your questions regarding caregivers benefits.\n\nSource: VA Caregiver News\nRead the full article: https://news.va.gov/140110/blue-star-families-host-qa-veterans-caregivers/"
+    },
+    {
+      "id": "feed-va-caregiver-news-caregivers-find-support-and-services-at-va",
+      "category": "VA News",
+      "title": "Caregivers find support and services at VA",
+      "summary": "Caregivers ensure care for our Veteran’s doesn’t stop when they leave a VA medical center.",
+      "readTime": "Link",
+      "sourceUrl": "https://news.va.gov/136274/caregivers-find-support-and-services-at-va/",
+      "updatedAt": "2024-11-21T15:30:00.000Z",
+      "tags": [
+        "va-caregiver-news"
+      ],
+      "content": "Caregivers ensure care for our Veteran’s doesn’t stop when they leave a VA medical center.\n\nSource: VA Caregiver News\nRead the full article: https://news.va.gov/136274/caregivers-find-support-and-services-at-va/"
+    },
+    {
+      "id": "feed-va-caregiver-news-caregivers-honoring-your-dedication-this-november",
+      "category": "VA News",
+      "title": "Caregivers: Honoring your dedication this November",
+      "summary": "Caregiving: Refresh & Renew: Our commitment to offering tools and services that help caregivers recharge while providing the best care for your Veteran.",
+      "readTime": "Link",
+      "sourceUrl": "https://news.va.gov/135889/caregivers-honoring-dedication-this-november/",
+      "updatedAt": "2024-11-04T19:30:00.000Z",
+      "tags": [
+        "va-caregiver-news"
+      ],
+      "content": "Caregiving: Refresh & Renew: Our commitment to offering tools and services that help caregivers recharge while providing the best care for your Veteran.\n\nSource: VA Caregiver News\nRead the full article: https://news.va.gov/135889/caregivers-honoring-dedication-this-november/"
     }
   ]
 }
